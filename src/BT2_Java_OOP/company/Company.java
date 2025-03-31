@@ -6,6 +6,6 @@ public class Company extends Person {
 
     public static void main(String[] args) {
         Company company = new Company();
-        company.getInfo("Hà", 26, "Nữ");
+        company.getInfo("Thu Hà", 26, "Nữ");
     }
 }
